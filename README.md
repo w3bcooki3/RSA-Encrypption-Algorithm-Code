@@ -1,5 +1,3 @@
-markdown
-Copy code
 # RSA Algorithm
 
 This is a Python implementation of the RSA (Rivest-Shamir-Adleman) algorithm, which is an asymmetric encryption algorithm widely used for secure communication.
@@ -28,15 +26,14 @@ To run the code, make sure you have Python installed on your machine. Follow the
    ```shell
    git clone https://github.com/your-username/rsa-algorithm.git
    
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-shell
-Copy code
+```shell
 cd rsa-algorithm
+
 Run the script:
 
-shell
-Copy code
+```shell
 python rsa_algorithm.py
 Usage
 Input a secret message when prompted.
@@ -49,7 +46,6 @@ License
 This project is licensed under the MIT License.
 
 css
-Copy code
 
 Feel free to modify the content as needed to provide more details or customize it according to your project requirements.
 
