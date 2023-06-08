@@ -27,25 +27,23 @@ To run the code, make sure you have Python installed on your machine. Follow the
    git clone https://github.com/your-username/rsa-algorithm.git
    
 2. Navigate to the project directory:
+   ```shell
+   cd rsa-algorithm
 
-```shell
-cd rsa-algorithm
+3. Run the script:
 
-Run the script:
+   ```shell
+   python rsa_algorithm.py
 
-```shell
-python rsa_algorithm.py
-Usage
+4. Usage
 Input a secret message when prompted.
 The code will generate the public and private keys.
 The secret message will be encrypted using the public key and displayed as ciphertext.
 The ciphertext will be decrypted using the private key and displayed as the original plaintext.
 Note: The code includes sample prime numbers and is for educational purposes only. In real-world scenarios, large prime numbers should be used.
 
-License
+5. License
 This project is licensed under the MIT License.
-
-css
 
 Feel free to modify the content as needed to provide more details or customize it according to your project requirements.
 
