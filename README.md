@@ -24,7 +24,7 @@ To run the code, make sure you have Python installed on your machine. Follow the
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/rsa-algorithm.git
+   git clone https://github.com/Rahul150811/RSA.git
    
 2. Navigate to the project directory:
    ```shell
@@ -36,14 +36,12 @@ To run the code, make sure you have Python installed on your machine. Follow the
    python rsa_algorithm.py
 
 4. Usage
-Input a secret message when prompted.
-The code will generate the public and private keys.
-The secret message will be encrypted using the public key and displayed as ciphertext.
-The ciphertext will be decrypted using the private key and displayed as the original plaintext.
+- Input a secret message when prompted.
+- The code will generate the public and private keys.
+- The secret message will be encrypted using the public key and displayed as ciphertext.
+- The ciphertext will be decrypted using the private key and displayed as the original plaintext.
 Note: The code includes sample prime numbers and is for educational purposes only. In real-world scenarios, large prime numbers should be used.
 
-5. License
-This project is licensed under the MIT License.
 
 Feel free to modify the content as needed to provide more details or customize it according to your project requirements.
 
