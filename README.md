@@ -28,12 +28,12 @@ To run the code, make sure you have Python installed on your machine. Follow the
    
 2. Navigate to the project directory:
    ```shell
-   cd rsa-algorithm
+   cd rsa
 
 3. Run the script:
 
    ```shell
-   python rsa_algorithm.py
+   python rsa.py
 
 4. Usage
 - Input a secret message when prompted.
