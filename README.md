@@ -24,7 +24,7 @@ To run the code, make sure you have Python installed on your machine. Follow the
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Rahul150811/RSA.git
+   git clone https://github.com/w3bcooki3/RSA.git
    
 2. Navigate to the project directory:
    ```shell
