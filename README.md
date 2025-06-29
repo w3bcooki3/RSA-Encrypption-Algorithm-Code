@@ -28,7 +28,7 @@ To run the code, make sure you have Python installed on your machine. Follow the
    
 2. Navigate to the project directory:
    ```shell
-   cd rsa
+   cd RSA-Encrypption-Algorithm-Code
 
 3. Run the script:
 
